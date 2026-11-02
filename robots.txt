@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eakub-ali.netlify.app/sitemap.xml
+Sitemap: https://md-eakub-ali102.netlify.app/sitemap.xml
