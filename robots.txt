@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://eakub-ali.netlify.app/sitemap.xml
